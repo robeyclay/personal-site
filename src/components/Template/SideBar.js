@@ -22,9 +22,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Chris. I am a{' '}
-        <a href="https://hashicorp.com">Hashicorp</a>Americas Senior Director of Solution Engineers and responsible
-        a incredible team of 100 SEs.  Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a>.
+        Hi, I&apos;m Chris. I am the Solution Engineering Senior Director Americas at{' '}
+        <a href="https://hashicorp.com">Hashicorp</a> and responsible for an incredible team of 100 SEs.
+        Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a>.
       </p>
       <ul className="actions">
         <li>
