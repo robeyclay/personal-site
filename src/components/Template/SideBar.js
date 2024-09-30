@@ -23,9 +23,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Chris. I am a{' '}
-        <a href="https://hashicorp.com">Hashicorp</a>Senior Director of Presales and responsible
-        a team of 100 Solution Engineers in the Americas.  Previously, I
-        was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a>.
+        <a href="https://hashicorp.com">Hashicorp</a>Americas Senior Director of Solution Engineers and responsible
+        a incredible team of 100 SEs.  Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a>.
       </p>
       <ul className="actions">
         <li>
