@@ -22,9 +22,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Chris. I am the Solution Engineering Senior Director Americas at{' '}
+        Hi, I&apos;m Chris. I am the Americas&apos; Solution Engineering Senior Director at{' '}
         <a href="https://hashicorp.com">Hashicorp</a> and responsible for an incredible team of 100 SEs.
-        Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a>.
+        Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a> leading
+        the Infrastructure Automation Product Line.
       </p>
       <ul className="actions">
         <li>
@@ -44,7 +45,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Chris D&apos;Roberson <Link to="/">frcache.com</Link>.
+        &copy; Chris Roberson <Link to="/">frcache.com</Link>.
       </p>
     </section>
   </section>
