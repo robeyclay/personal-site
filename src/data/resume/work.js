@@ -17,7 +17,7 @@ const work = [
     position: 'Sr. Director, Americas Solution Engineering',
     url: 'https://www.hashicorp.com',
     startDate: '2022-11-01',
-    summary: 'Need to copy from linkedin',
+    summary: 'As Sr. Director of Americas Solution Engineering at HashiCorp, I lead a diverse team of Solution Engineers, focusing on scalable operations, mentorship, and delivering significant value to customers and stakeholders. My career is marked by achievements such as:',
     highlights: [
       'Spearheaded the expansion of the Americas Solution Engineering team, scaling operations to support regional growth and resulting in a 20% increase in technical win rates',
       'Developed and implemented a consistent and transparent performance evaluation system for Solution Engineers, leading to improved team motivation and a 25% reduction in turnover',
