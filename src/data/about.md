@@ -1,7 +1,20 @@
 # Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+My journey into DevOps began in 2012 at EMC, supporting Pivotal Labs, where I developed a strong foundation in cloud infrastructure and automation. I then joined Puppet, starting in a Solution Engineering (SE) role. Over time, I transitioned to leading the SE organization and eventually took ownership of the entire infrastructure business line, deepening my expertise in managing large-scale infrastructure operations and driving innovation.
 
+Today, as the Senior Director of Americas Solution Engineering at HashiCorp, I lead a talented team of Solution Engineers working across cloud, automation, and infrastructure solutions. My primary focus is on scaling operations, providing mentorship, and delivering significant value to both customers and stakeholders.
+
+Outside of work, I’m passionate about mountain activities, particularly hiking and skiing in the Rockies. I summited my first 14er, Mount Bierstadt, in 2020, followed by Mount Evans in 2021. In 2024, I expanded my hiking adventures abroad with a trip to Birchgarten National Park in Germany. These mountain expeditions not only provide me with physical challenges and mental clarity but also give me the chance to spend quality time with my son, who shares my love for the outdoors.
+
+I’m also an avid fan of F1 racing. My love for F1 began in Austin at the Circuit of the Americas (COTA) and will expand to Las Vegas this year. The sound of the cars is something you can’t truly explain—it’s an experience. My son introduced me to F1, and it has since become a family excuse to travel the world and enjoy races together.
+
+Of all the places I’ve traveled, Spain stands out as my favorite country in Europe. I’m a huge fan of La Liga Football, and watching a Madrid Derby in person was a highlight for me, though Barca holds a special place in my heart. One of my greatest regrets is missing the chance to see Messi play at Camp Nou due to COVID. Beyond football, Spain’s history is fascinating, but the wine and food are even better. I truly believe every day should end with a glass of tinto de verano in hand.
+
+Recently, I’ve traveled to Ireland, Holland, Germany, and Austria, each offering unique cultural experiences. I also have a deep interest in WWII history, especially my grandfather’s involvement with the Allies on Utah Beach and his journey through the Ardennes Forest with Patton’s division, helping to liberate Dachau satellite camps.
+
+Additionally, I enjoy working on home automation projects and experimenting with the latest smart home technologies.
+
+This version integrates your passion for Spain, La Liga, and your love for tinto de verano. Does this capture everything you wanted?
 In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
 
 # Some History
