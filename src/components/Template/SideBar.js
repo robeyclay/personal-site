@@ -12,9 +12,9 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Chris D&apos;Roberson</h2>
+        <h2>Clay M. Roberson</h2>
         <p>
-          <a href="mailto:cdrobey@frcache.com">cdrobey@frcache.com</a>
+          <a href="mailto:work@clayroberson.com">work@clayroberson.com</a>
         </p>
       </header>
     </section>
@@ -22,10 +22,12 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Chris. I am the Americas&apos; Solution Engineering Senior Director at{' '}
-        <a href="https://hashicorp.com">Hashicorp</a> and responsible for an incredible team of 100 SEs.
-        Previously, I was Senior Director of Product Management at <a href="https://puppet.com">Puppet</a> leading
-        the Infrastructure Automation Product Line.
+        Hi, I’m Clay Roberson! With a strong foundation in DevOps,
+        technical support, and infrastructure observability,
+        I thrive on building innovative solutions that
+        simplify workflows and improve client satisfaction.
+        Whether collaborating with teams or leading initiatives,
+        I focus on driving measurable outcomes and continuous improvement.
       </p>
       <ul className="actions">
         <li>
@@ -45,7 +47,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Chris Roberson <Link to="/">frcache.com</Link>.
+        &copy; Clay Roberson <Link to="/">work@clayroberson.com</Link>.
       </p>
     </section>
   </section>
