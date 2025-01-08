@@ -19,7 +19,7 @@ const data = [
     date: '2024-12',
     link: 'https://github.com/robeyclay/EpisodicVirtualWorldArchitects',
     desc:
-      'Team Episodic Virtual World Aritects hosted a research experiment where'
+      'Team Episodic Virtual World Architects hosted a research experiment where'
       + ' users were tasked to identify a real world location in a virtual environment.'
       + ' Items were added to the virtual environment iteratively until users recognized the space.'
       + ' The project involved custom building a Unity environment with custom models from Blender.',
