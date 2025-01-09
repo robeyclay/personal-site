@@ -27,12 +27,12 @@ const skills = [
   {
     title: 'Docker',
     competency: 4,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Linux/Unix',
     competency: 5,
-    category: ['Infastructure', 'Operating System'],
+    category: ['Infrastructure', 'Operating System'],
   },
   {
     title: 'Git/GitLab/GitHub',
@@ -42,12 +42,12 @@ const skills = [
   {
     title: 'Prometheus',
     competency: 5,
-    category: ['Infastructure', 'Tools', 'Observability'],
+    category: ['Tools', 'Observability'],
   },
   {
     title: 'Datadog',
     competency: 5,
-    category: ['Infastructure', 'Tools', 'Observability'],
+    category: ['Tools', 'Observability'],
   },
   {
     title: 'JIRA',
@@ -72,17 +72,17 @@ const skills = [
   {
     title: 'Helm',
     competency: 3,
-    category: ['Infastructure', 'Tool'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'VMware',
     competency: 4,
-    category: ['Infastructure', 'Tool'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Windows',
     competency: 5,
-    category: ['Infastructure', 'Operating System'],
+    category: ['Infrastructure', 'Operating System'],
   },
   {
     title: 'Grafana',
@@ -92,32 +92,32 @@ const skills = [
   {
     title: 'Netbox',
     competency: 5,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Hashicorp Vault',
     competency: 2,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'SAML/LDAP',
     competency: 3,
-    category: ['Infastructure'],
+    category: ['Infrastructure'],
   },
   {
     title: 'CI/CD',
     competency: 3,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Test Automation',
     competency: 4,
-    category: ['Infastructure'],
+    category: ['Infrastructure'],
   },
   {
     title: 'Technical Documentation',
     competency: 5,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Cross-Functional Collaboration',
@@ -132,17 +132,17 @@ const skills = [
   {
     title: 'React',
     competency: 3,
-    category: ['Languages', 'Tool', 'Web Development'],
+    category: ['Languages', 'Tools', 'Web Development'],
   },
   {
     title: 'SaaS',
     competency: 5,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'Ansible',
     competency: 3,
-    category: ['Infastructure', 'Tools'],
+    category: ['Infrastructure', 'Tools'],
   },
   {
     title: 'FreshService',
@@ -154,17 +154,15 @@ const skills = [
 // this is a list of colors that I like. The length should be === to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
-  '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
-  '#c3423f',
-  '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#205566', // dark teal
+  '#F16A6F', // coral
+  '#D8A7B1', // dusty rose
+  '#4B5320', // olive green
+  '#6A5ACD', // slate blue
+  '#6A0572', // violet
+  '#B0E0E6', // powder blue
+  '#DC143C', // crimson
+  '#E6E6FA', // lavender
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]

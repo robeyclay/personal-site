@@ -4,7 +4,7 @@ const data = [
     title: 'Netbox Updater',
     subtitle: 'VM Scraper to Update Information in Netbox',
     image: '/images/projects/vmware.jpg',
-    date: '2024-12',
+    date: '2023-12',
     link: 'https://github.com/robeyclay/go-netbox-updater',
     desc:
       'A project that scraped Virtual Machine physical location, host, and port information off of VMware'
