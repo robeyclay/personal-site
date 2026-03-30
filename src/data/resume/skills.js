@@ -50,8 +50,13 @@ const skills = [
     category: ['Tools', 'Observability'],
   },
   {
+    title: 'Splunk',
+    competency: 5,
+    category: ['Tools', 'Observability'],
+  },
+  {
     title: 'JIRA',
-    competency: 4,
+    competency: 5,
     category: ['Tools', 'Ticketing'],
   },
   {
@@ -97,6 +102,16 @@ const skills = [
   {
     title: 'Hashicorp Vault',
     competency: 2,
+    category: ['Infrastructure', 'Tools'],
+  },
+  {
+    title: 'Hashicorp Terraform',
+    competency: 5,
+    category: ['Infrastructure', 'Tools'],
+  },
+  {
+    title: 'Model Context Protocol (MCP) Server',
+    competency: 5,
     category: ['Infrastructure', 'Tools'],
   },
   {
@@ -156,8 +171,8 @@ const skills = [
 const colors = [
   '#205566', // dark teal
   '#F16A6F', // coral
-  '#D8A7B1', // dusty rose
   '#4B5320', // olive green
+  '#D8A7B1', // dusty rose
   '#6A5ACD', // slate blue
   '#6A0572', // violet
   '#B0E0E6', // powder blue

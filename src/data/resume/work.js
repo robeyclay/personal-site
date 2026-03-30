@@ -13,10 +13,24 @@
  */
 const work = [
   {
+    name: 'Charter Communications',
+    position: 'Observability Engineer',
+    url: 'https://www.spectrum.net/',
+    startDate: '2025-07',
+    highlights: [
+      'Designed and implemented pre- and post-release Splunk dashboards for high-availability routers, processing millions of logs daily and correcting 25% discrepancies in failover events.',
+      'Developed a Red/Green Health Score Dashboard in Datadog, summarizing CPU, memory, latency, and error metrics across all internal cloud services, reducing troubleshooting time by 30%.',
+      'Engineered a dynamic Terraform pipeline for automated dashboard creation, cutting release dashboard setup time by 1+ hour per release while ensuring template consistency across platforms.',
+      'Built Datadog standards library (Observopedia) consolidating best practices for monitoring services, Kubernetes, Kafka, and JVM metrics, accelerating dashboard creation and onboarding by 30+ minutes per dashboard.',
+      'Initiated MCP Server to automate alert-driven dashboards across Datadog, Splunk, TimescaleDB, and Grafana, implementing caching, rate limiting, and circuit breakers to minimize load and optimize alert response.',
+    ],
+  },
+  {
     name: 'Engineering Technology Services at Colorado State University',
     position: 'Lab Supervisor',
     url: 'https://www.engr.colostate.edu/ets/',
     startDate: '2023-08',
+    endDate: '2025-05',
     summary: 'As Lab Supervisor, I lead a diverse team of Lab Technicians and Lab Assistants, focusing on infastructure maintenance, mentorship, and delivering significant value to customers. My career is marked by achievements such as:',
     highlights: [
       'Designed and deployed a Prometheus and Grafana observability system to monitor 240 machines allowing the systems operations team to transition to proactively managed system infrastructure.',
@@ -48,17 +62,6 @@ const work = [
       'Managed $300,000 in lab equipment across a network of 240 workstations, achieving a 98% customer satisfaction rating for support and operational quality.',
       'Led the implementation of Windows Server 2016, 2019 & 2022 images, deployed workstations, and developed remote scripts, reducing processing time by 10 minutes per task.',
       'Directed a workshop remodel, cutting hardware and tool retrieval time by 50%, and maintained updated Wiki resources for troubleshooting and project management.',
-    ],
-  },
-  {
-    name: 'Best Buy',
-    position: 'Computer Sales & Customer Specialist',
-    url: 'https://www.bestbuy.com/',
-    startDate: '2017-11',
-    endDate: '2019-11',
-    highlights: [
-      'Continuously expanded technical knowledge to provide informed product recommendations, ensuring customers received the best solutions for their needs and enhancing overall service quality.',
-      'Cultivated strong relationships with customers and associates to efficiently manage returns, address inquiries, and streamline the checkout process, consistently exceeding client expectations and contributing to enhanced store performance.',
     ],
   },
 ];

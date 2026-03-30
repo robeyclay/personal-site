@@ -22,10 +22,10 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I’m Clay Roberson! With a strong foundation in DevOps,
-        technical support, and infrastructure observability,
+        Hi, I’m Clay Roberson! With a strong foundation in Observability engineering,
+        technical support, and data analysis,
         I thrive on building innovative solutions that
-        simplify workflows and improve client satisfaction.
+        bring clarity into complex workflows and improve client satisfaction.
         Whether collaborating with teams or leading initiatives,
         I focus on driving measurable outcomes and continuous improvement.
       </p>
