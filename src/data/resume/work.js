@@ -18,8 +18,8 @@ const work = [
     url: 'https://www.spectrum.net/',
     startDate: '2025-07',
     highlights: [
+      'Developed a Red/Green Health Score Dashboard in Datadog, summarizing CPU, memory, latency, and error metrics across all internal cloud services, reducing troubleshooting time by 30+ minutes.',
       'Designed and implemented pre- and post-release Splunk dashboards for high-availability routers, processing millions of logs daily and correcting 25% discrepancies in failover events.',
-      'Developed a Red/Green Health Score Dashboard in Datadog, summarizing CPU, memory, latency, and error metrics across all internal cloud services, reducing troubleshooting time by 30%.',
       'Engineered a dynamic Terraform pipeline for automated dashboard creation, cutting release dashboard setup time by 1+ hour per release while ensuring template consistency across platforms.',
       'Built Datadog standards library (Observopedia) consolidating best practices for monitoring services, Kubernetes, Kafka, and JVM metrics, accelerating dashboard creation and onboarding by 30+ minutes per dashboard.',
       'Initiated MCP Server to automate alert-driven dashboards across Datadog, Splunk, TimescaleDB, and Grafana, implementing caching, rate limiting, and circuit breakers to minimize load and optimize alert response.',
