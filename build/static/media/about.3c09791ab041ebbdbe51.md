@@ -1,0 +1,23 @@
+# Intro
+
+Hi! The name’s Clay. Bill Clay… Just kidding, it’s Clay Roberson, I can’t shy away from a good movie reference or a great project. I’m an individual who finds himself overly passionate about projects that challenge my high level problem solving capabilities. Ever since I was a kid I’ve always been infatuated with technology and puzzles. I often find myself diving deep into the analytics of a project to find a high level solution that best suits the problem at hand.
+
+This attitude has carried me through my academics and into my early career. It led me to never being satisfied with the bare minimum on individual and group projects. I always position myself as the driving force across teams to insight effective communication that bolsters the quality of work of those around me. These qualities led me to be quickly trusted with important infrastructure projects when I worked at DISH Networks in 2023. Over time I transitioned to driving proof of concepts for SaaS applications that would increase the operational efficiencies of the small crew of 10 coworkers managing 25 Petabytes of data. This experience ignited my career-long passion for exploring how a small, elite team can effectively and efficiently manage massive volumes of data. Since then, my primary focus has always been scaling operations, improving operational efficiencies, and delivering significant value to both customers and stakeholders.
+
+Outside of work, at heart I am a nerd and an outdoorsman, particularly I enjoy spending my time playing Dungeons and Dragons, and rock climbing. I have rock climbed all over Colorado with my favorite spots being the Ledges, for it’s insane route length spanning just shy of 115 ft, Garden of the Gods, for its scenery and unique rock structure that makes you feel exposed at all times, and Low Hanging Fruit, for being my home crag about 15 minutes from my house in college. Climbing provides a physical challenge that pushes my strength and endurance to the limit, but for me the highlight is the mental challenge. When I am climbing all I can focus on is body positioning, where I am going next, and regulating the fear and adrenaline coursing through me. Rock climbing really highlights my drive as an individual since it is all about efficiency, problem solving, and mental fortitude.
+
+When I decide to stay home, I take on different egos and personalities as I have been playing Dungeons and Dragons with my friends for the past 5 years. My favorite character has been a clumsy human who had a particular interest in playing with forces well beyond his control. He often found himself making tributes to gain the favor and attention of the High Fae Court. I particularly love the collaboration and teamwork that comes with Dungeons and Dragons as every character I make is thrust into a world with an unknown group of people aligned with the common enemy of the Dungeon Master. It’s provided great opportunities for camaraderie, celebration, and tragedy with my friends across the table.
+I have a solid list of locations I have been to, including 4 countries in Europe, and 10 states across the US. My favorite trip outside the US was when I went to Germany and Austria with my Dad in August of 2024. We chose this area due to its rich history and the Alps being right next door. He and I have a tradition of hiking a 14er every summer, while we didn’t hike one in Germany we couldn’t help but be drawn to the Alps.
+Within the US, my favorite trip was a 50 mile backpacking kayak trip through the Louisiana swamps back in 2017. We paddled at least 12 miles a day, with a couple of rest days in between. A highlight of mine was paddling out to this remote area where a 300+ year old Bald Cypress tree sat untouched by man. It was a humbling sight looking up at this gargantuan tree, it made me realize just how precious and important it is to protect the natural world around us. Being in such an intimate spot with nature truly ignited my passion for the outdoors and adventure. This once-in-a-lifetime trip deepened my love for exploration, and I can’t wait to bring that same spirit of adventure to our next journey together—whether it’s a creative project, a bold new idea, or something entirely unexpected!
+
+# I Dream Of
+
+- Inspiring and feeling inspired.
+- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
+- Treating every individual with genuine kindness and respect.
+- Staying curious.
+- Continually improving.
+- The protection of this beautiful place we call Earth.
+- My next great adventure in life.
+- Making an impact wherever I go.
+- You not checking the commit history for earlier drafts of this file.
