@@ -65,12 +65,18 @@ jobs:
         env:
           # Remove this line if you would like to skip using google analytic
           REACT_APP_GA_TRACKING_ID: UA-68649021-1
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: "build"
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        run: npm run deploy
+    #  - name: Setup Pages
+    #     uses: actions/configure-pages@v3
+    #   - name: Upload artifact
+    #     uses: actions/upload-pages-artifact@v4
+    #     with:
+    #       path: "build"
+    #   - name: Deploy to GitHub Pages
+    #     id: deployment
+    #     uses: actions/deploy-pages@v2

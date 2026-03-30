@@ -15,6 +15,7 @@
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "test": "npx jest"
   },
@@ -47,6 +48,7 @@
     "eslint-plugin-import": "^2.30.0",
     "eslint-plugin-jsx-a11y": "6.10.0",
     "eslint-plugin-react": "^7.36.1",
+    "gh-pages": "^6.3.0",
     "rimraf": "^6.0.1",
     "sass": "^1.79.3",
     "source-map-explorer": "^2.5.3"
