@@ -15,7 +15,7 @@
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -r https://x-access-token:$GH_TOKEN@github.com/robeyclay/personal-site.git",
     "start": "react-scripts start",
     "test": "npx jest"
   },
