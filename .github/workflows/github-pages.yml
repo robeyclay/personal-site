@@ -73,7 +73,9 @@ jobs:
         run: |
           git config --global user.name "robeyclay"
           git config --global user.email "crobersoncollege@gmail.com"
-      - name: Deploy
+      - name: Deploy to GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run deploy
     #  - name: Setup Pages
     #     uses: actions/configure-pages@v3
