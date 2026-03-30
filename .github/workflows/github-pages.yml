@@ -71,7 +71,7 @@ jobs:
         run: npm run build
       - name: Configure Git author
         run: |
-          git config --global user.name "Clay Roberson"
+          git config --global user.name "robeyclay"
           git config --global user.email "crobersoncollege@gmail.com"
       - name: Deploy
         run: npm run deploy
